@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Oi+%F0%9F%91%8B%2C+eu+sou+Ivan!;Entusiasta+de+Tecnologia+%7C+Linux+%7C+Containers+%7C+Infraestrutura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Oi+%F0%9F%91%8B%2C+eu+sou+Ivan!;%7C+Infraestrutura+%7C+Linux+%7C+Containers+%7C" alt="Typing SVG" />
 </div>
 
 <br />
@@ -12,7 +12,7 @@ Os públicos são para experimentos, estudos, projetos pessoais e provas de conc
 
 ### Sobre Mim (PT-BR)
 
-- 🔧 Driver diário: **ambientes baseados em Linux** (Debian/Armbian em SBCs)
+- 🔧 Setup diário: **ambientes baseados em Linux** (Debian/Armbian em SBCs)
 - 🐳 Mãos na massa com **Docker & Docker Compose** — serviços containerizados em setups semelhantes a produção
 - 🌐 Interesse profundo em **redes** (TCP/IP, DNS, firewall, reverse proxy), comportamento de sistemas e troubleshooting
 - 📚 Aprendizado contínuo através de homelab prático: portfólio self-hosted, wiki e operações reais
@@ -47,10 +47,6 @@ Os públicos são para experimentos, estudos, projetos pessoais e provas de conc
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ivan8505&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan8505&theme=dracula&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan8505&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
@@ -115,10 +111,6 @@ Public ones are for experiments, studies, personal projects and proof-of-concept
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ivan8505&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan8505&theme=dracula&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan8505&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
