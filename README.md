@@ -19,13 +19,15 @@ Os públicos são para experimentos, estudos, projetos pessoais e provas de conc
 - ⚙️ Objetivo: Entender end-to-end — das limitações de hardware até serviços estáveis 24/7
 - 🛠️ Atualmente rodando tudo em **Orange Pi 5** (RK3588S, armazenamento NVMe)
 
-### Meus Projetos Públicos
 
-| Repositório                 | Descrição                                                                   | Stack Tecnológica   |
-|-----------------------------|-----------------------------------------------------------------------------|---------------------|
-| [ivanrodrigues.dev](https://github.com/ivan8505/ivanrodrigues.dev) | Meu portfólio pessoal / currículo web (self-hosted)                        | Vue.js, Nginx       |
-| [Docker-compose](https://github.com/ivan8505/Docker-compose)       | Stacks Docker Compose do meu homelab (exemplos públicos e anonimizados)   | Docker, Compose     |
-| [ivan8505 (este repo)](https://github.com/ivan8505/ivan8505)       | README do meu perfil GitHub — overview e stats                             | Markdown            |
+### 🛠 Projetos públicos em destaque
+
+| Repositório                          | Descrição                                                                 | Stack Principal                  |
+|--------------------------------------|---------------------------------------------------------------------------|----------------------------------|
+| [ivanrodrigues.dev](https://github.com/ivan8505/ivanrodrigues.dev) | Portfólio / currículo web self-hosted                                    | Vue.js + Nginx                   |
+| [MedFlow-desktop-java](https://github.com/Ivan8505/MedFlow-desktop-java) | Sistema desktop de gestão para farmácias (ERP-like) em Java Swing com forte ênfase em OOP e arquitetura inspirada em MVC + camadas | Java · Swing · OOP · MVC         |
+| [este README](https://github.com/ivan8505/ivan8505)                | Perfil overview + badges e stats                                         | Markdown                         |
+<!-- | [Docker-compose](https://github.com/ivan8505/Docker-compose)       | Stacks Docker Compose do meu homelab (exemplos públicos e anonimizados)   | Docker, Compose     | -->
 
 ### Conecte-se & Entre em Contato
 
@@ -83,13 +85,16 @@ Public ones are for experiments, studies, personal projects and proof-of-concept
 - ⚙️ Goal: Understand end-to-end — from hardware limitations to stable 24/7 services
 - 🛠️ Currently operating everything on **Orange Pi 5** (RK3588S, NVMe storage)
 
-### My Public Projects
+### 🛠 Featured public projects
 
-| Repository                  | Description                                                                 | Tech Stack          |
-|-----------------------------|-----------------------------------------------------------------------------|---------------------|
-| [ivanrodrigues.dev](https://github.com/ivan8505/ivanrodrigues.dev) | My personal portfolio / web resume (self-hosted)                           | Vue.js, Nginx       |
-| [Docker-compose](https://github.com/ivan8505/Docker-compose)       | Docker Compose stacks from my homelab (public & anonymized examples)       | Docker, Compose     |
-| [ivan8505 (this repo)](https://github.com/ivan8505/ivan8505)       | My GitHub profile README — overview & stats                                | Markdown            |
+| Repository                           | Description                                                            | Main Stack               |
+|--------------------------------------|------------------------------------------------------------------------|--------------------------|
+| [ivanrodrigues.dev](https://github.com/ivan8505/ivanrodrigues.dev) | Personal portfolio / self-hosted web resume                            | Vue.js + Nginx           |
+| [MedFlow-desktop-java](https://github.com/Ivan8505/MedFlow-desktop-java) | Desktop pharmacy management system (ERP-like) in Java Swing with strong OOP focus and MVC-inspired layered architecture | Java · Swing · OOP · MVC |
+| [this README](https://github.com/ivan8505/ivan8505)                | GitHub profile overview + badges and stats                             | Markdown                 |
+
+<!-- | [Docker-compose](https://github.com/ivan8505/Docker-compose)       | Docker Compose stacks from my homelab (public & anonymized examples)       | Docker, Compose     | -->
+
 
 ### Connect & Reach Out
 
