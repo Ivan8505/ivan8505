@@ -57,13 +57,16 @@ Aqui vão alguns que valem a pena conferir — de portfólio web a apps desktop 
 
 <br />
 
+---
+Última atualização: Fevereiro 2026
+
 > *Aprendizado acontece quando você opera seus próprios sistemas.*  
 > — Meu lema do homelab
 
+
 Obrigado por visitar! 🚀  
 Quer trocar ideias sobre Linux, Docker, homelab, Java desktop, PHP web ou infraestrutura? Me chama no LinkedIn, no site ou abre uma issue aqui.
----
-Última atualização: Fevereiro 2026
+
 
 ---
 
@@ -127,12 +130,6 @@ Here are some worth checking out — from web portfolio to desktop apps and acad
 </div>
 
 <br />
-
-> *Learning happens when you operate your own systems.*  
-> — My homelab motto
-
-Thanks for stopping by! 🚀  
-Want to chat about Linux, Docker, homelab, Java desktop, PHP web, or infrastructure? Hit me up on LinkedIn, my site, or open an issue here.
 
 ---
 Last updated: February 2026
